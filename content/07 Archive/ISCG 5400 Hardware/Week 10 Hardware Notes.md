@@ -1,0 +1,44 @@
+- **Advantages of Digital over Analogue**
+	- Less errors because of only two distinct values (1, 0)
+	- Less power required because only two discrete signals
+	- More efficient transmission (Switching, Multiplexing)
+	- Higher maximum transmission rate
+	- More secure
+		- Easier to encrypt
+- **Switching**
+	- **Multiplexing**
+		- MUX/DMUX
+		- Can increase or decrease the bandwidth on demand
+		- Combines multiple switches or signals into one
+- **Frequency**
+- **Band**
+	- A range of frequencies
+		- Covers a range from 80MHz to 180MHz
+- **Bandwidth**
+	- Bandwidth is the width of the band
+	- In networks, bandwidth is used to refer to the amount of data that can be sent per second
+- **Baud Rate**
+	- Number of times that a signal changes per second
+- **Bit Rate**
+	- Bit rate is the number of bits of data sent every second
+- **MoDem**
+	- **Modulation**
+	- **Demodulation**
+	- **Moden Types**
+		- Internal Modem
+		- External Modem
+		- PCMCIA Card
+			- Express Cards
+				- Better than PCMCIA Cards
+		- USB Dongle Modem
+		- Mobile WiFi Modem Router
+		- Wireless Gateway Modem Router
+- **Modulation Techniques**
+	- Amplitude Modulation (AM)
+		- Frequency and Phase remain constant
+	- Frequency Modulation (FM)
+		- Amplitude and Phase remain constant
+	- Phase Modulation (PM)
+		- Amplitude and Frequency remain constant
+	- Quadrature Amplitude Modulation
+		- A combination of Amplitude Modulation and Frequency Modulation

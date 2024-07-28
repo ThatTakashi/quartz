@@ -1,0 +1,59 @@
+- **Analogue**
+	- Analogue data is in a continuous form
+	- It varies smoothly
+- **Digital**
+	- Digital signal is discontinuous (gaps)
+	- Varies in steps
+	- Varies instantly
+	- Represented by 1s and 0s
+	- Represents exact voltages at regular time intervals
+- **Conversion**
+	- **Analogue to Digital (ADC)**
+		- Converts a signal from analogue to digital by sampling
+	- **Digital to Analogue (DAC)**
+		- Converts a digital signal to an analogue signal by using the digital data to produce a corresponding voltage
+		- DACs also *look ahead*. If the next sample has a *higher* level is starts increasing the output voltage to produce a smooth curve
+- **Codec**
+	- Many don't come standard on systems such as Windows or MacOS
+	- enCode, Decoding
+- **Analogue Devices**
+	- Conventional camera, Most telephones, TV, Microphone, Speaker
+- **Digital Devices**
+	- Digital camera, GSM cellphones, Computer monitor, Keyboard
+- **Input Devices**
+	- **Keyboards**
+		- Keyboards allow the user to type letters and control parts of a system
+		- Has its own circuit
+			- Two scan codes
+				- One for when the key is pressed
+				- And another for when the key is released
+		- Special keys have a flag in a special area of memory
+		- **Types of keys**
+			- Metal contact keys
+			- Capacitive (or flat) keys
+				- Used in cheap laptops and pos systems
+			- Mechanical keys
+			- Membrane keys
+		- **Keyboard Layouts**
+			- *Dvorak*
+				- Made to be more efficient to use
+			- *QWERTY*
+				- Converted from typewriter
+				- Most common keyboard layout
+				- Not the most efficient
+	- **Pointing Devices**
+		- Supplements the keyboard actions by doing tasks such as moving and pointing
+		- **Types of mice**
+			- Mechanical mouse
+				- Contains a hard rubber ball that sits against two rollers
+			- Opto mechanical mouse
+				- Same as the mechanical mouse except
+			- Optical mouse
+				- No moving parts
+				- Shines a small light mounted on its bottom side onto almost any type of service
+			- Trackball mouse
+				- Same as a mechanical mouse but upside-down
+		- **Other Pointing Devices**
+			- Touchpad
+			- Pointing Stick
+			- Joystick
