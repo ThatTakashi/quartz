@@ -15,6 +15,7 @@ Here are some quick links to help you get around:
 	- [[ISCG 5403 - Networking Fundamentals]]
 - [[Projects]]
 	- [[Blinding Nights]]
+- [[07 Archive|Archive]]
 
 > [!multi-column]
 > 
